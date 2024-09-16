@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/srinivasan2003/srinivasan2003/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9ocWI5bXJrcTA4eXM1MW16bmFtcnA1OXBobXBkaHV5bGlndm9kOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FFIpITW6VGaOQXMfIu/giphy.gif" alt="scorpio" />
 
 ###
